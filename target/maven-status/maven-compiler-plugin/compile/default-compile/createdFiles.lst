@@ -1,0 +1,7 @@
+ru/yandex/praktikum/utils/EndPoints.class
+ru/yandex/praktikum/api/OrderClient.class
+ru/yandex/praktikum/entity/User.class
+ru/yandex/praktikum/api/UserClient.class
+ru/yandex/praktikum/config/BurgerConfig.class
+ru/yandex/praktikum/utils/GenerateUser.class
+ru/yandex/praktikum/entity/Order.class
