@@ -1,0 +1,7 @@
+ru/yandex/praktikum/user/UserGetTest.class
+ru/yandex/praktikum/user/UserDeleteTest.class
+ru/yandex/praktikum/user/UserLoginLogoutTest.class
+ru/yandex/praktikum/user/UserCreateTest.class
+ru/yandex/praktikum/order/OrderGetTest.class
+ru/yandex/praktikum/order/OrderCreateTest.class
+ru/yandex/praktikum/user/UserUpdateTest.class
